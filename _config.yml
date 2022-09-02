@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yang-jaemin's Blog"
+title                    : "Yang's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Yang"
+name                     : "Yang jaemin"
 description              : "Studing ML/DL"
 url                      : "https://Yang-jaemin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
