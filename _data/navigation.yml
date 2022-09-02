@@ -2,7 +2,7 @@
 main:
   - title: "About Me"
     url: /Aboutme/
-  - title: "posts"
+  - title: "Posts"
     url: /categories/
   - title: "Email"
     url  : /Aboutme/email 
