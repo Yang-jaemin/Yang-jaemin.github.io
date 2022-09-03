@@ -1,7 +1,51 @@
 # main links
 main:
+
+
+
+main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ # - title: "About Me"
+ #  url: /Aboutme/
+ # - title: "Posts"
+ #   url: /categories/
+ # - title: "Email"
+ #   url  : /Aboutme/email 
+#side:
+#  - title: ML/DL
+#    children:
+#      - title: "Machine Learning"
+#        url: /categories/Machine_Learning
+#      - title: "Deep Learning"
+#        url: /categories/Deep_learning
+# 
+#  - title: Language
+#    children:
+#      - title: "Python"
+#       url: /categories/Python
+#   - title: Mathematics
+#    children:
+#      - title: "Linear Algebra"
+#        url: /categories/Linear_Algebra
+#     - title: "Statistics"
+#        url: /categories/Statistics
+     
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
