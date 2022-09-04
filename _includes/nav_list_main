@@ -13,26 +13,22 @@
       <li>
 
         <!--span 태그로 카테고리들을 크게 분류 ex) C/C++/C#-->
-        <span class="nav__sub-title">Machine Learning</span>
+        <span class="nav__sub-title">ML/DL</span>
             <!--ul 태그로 같은 카테고리들 모아둔 페이지들 나열-->
             <ul>
                 <!--Cpp 카테고리 글들을 모아둔 페이지인 /categories/cpp 주소의 글로 링크 연결-->
                 <!--category[1].size 로 해당 카테고리를 가진 글의 개수 표시--> 
                 {% for category in site.categories %}
                     
-                    {% if category[0] == "Deep_Learning_Study" %}
-                        <li><a href="/categories/Deep_Learning_Study" class="">Deep Leaning Study ({{category[1].size}})</a></li>
+                    {% if category[0] == "Machine Learning" %}
+                        <li><a href="/categories/Machine Learning" class="">Machine Learning ({{category[1].size}})</a></li>
                     {% endif %}
 
-                    {% if category[0] == "VoiceRecognition" %}
-                        <li><a href="/categories/VoiceRecognition" class="">Voice Recognition ({{category[1].size}})</a></li>
+                    {% if category[0] == "Deep learning" %}
+                        <li><a href="/categories/Deep learning" class="">Deep learning ({{category[1].size}})</a></li>
                     {% endif %}
 
-                    {% if category[0] == "Models" %}
-                        <li><a href="/categories/Models" class="">Models ({{category[1].size}})</a></li>
-                    {% endif %}
-                
-            
+
                 {% endfor %}
             </ul>
             
@@ -44,31 +40,29 @@
                         <li><a href="/categories/Python" class=""> Python ({{category[1].size}})</a></li>
                     {% endif %}
 
-                    {% if category[0] == "C" %}
-                        <li><a href="/categories/C" class=""> C ({{category[1].size}})</a></li>
+                    {% if category[0] == "Python Coding Test" %}
+                        <li><a href="/categories/Python Coding Test" class=""> Python Coding Test ({{category[1].size}})</a></li>
                     {% endif %}
 
+                   
+                 
                 {% endfor %}
             </ul>
         
-        <span class="nav__sub-title">GitBlog</span>
+       
+        <span class="nav__sub-title">Mathemathics</span>
             <ul>
                 {% for category in site.categories %}
                     
-                    {% if category[0] == "GitBlog" %}
-                        <li><a href="/categories/GitBlog" class="">깃블 오류 및 꾸미기 ({{category[1].size}})</a></li>
+                    {% if category[0] == "Linear Algebra" %}
+                        <li><a href="/categories/Linear Algebra" class="">Linear Algebra ({{category[1].size}})</a></li>
+                    {% endif %}  
+
+                    {% if category[0] == "Statistics" %}
+                        <li><a href="/categories/Statistics" class="">Statistics ({{category[1].size}})</a></li>
                     {% endif %}
                     
-                    {% endfor %}
-            </ul>    
-
-        <span class="nav__sub-title">Firmware</span>
-            <ul>
-                {% for category in site.categories %}
                     
-                    {% if category[0] == "ATmega128" %}
-                        <li><a href="/categories/ATmega128" class="">ATmega128 ({{category[1].size}})</a></li>
-                    {% endif %}           
 
                 {% endfor %}
             </ul>
