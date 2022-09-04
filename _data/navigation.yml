@@ -2,7 +2,7 @@
 main:
 
   - title: "About Me"
-   url: /Aboutme/
+    url: /Aboutme/
   - title: "Posts"
     url: /categories/
   - title: "Email"
@@ -22,7 +22,7 @@ side:
    - title: Mathematics
     children:
       - title: "Linear Algebra"
-        url: /categories/Linear_Algebra
+        url: /categories/Linear Algebra
      - title: "Statistics"
         url: /categories/Statistics
      
