@@ -66,22 +66,6 @@
 
                 {% endfor %}
             </ul>
-
-         <span class="nav__sub-title">Application_Development</span>
-            <ul>
-                {% for category in site.categories %}
-                    
-                    {% if category[0] == "Intro" %}
-                        <li><a href="/categories/Intro" class="">Intro ({{category[1].size}})</a></li>
-                    {% endif %}     
-                    
-                    {% if category[0] == "JavaScript" %}
-                        <li><a href="/categories/JavaScript" class="">JavaScript ({{category[1].size}})</a></li>
-                    {% endif %}
-
-                {% endfor %}
-            </ul>
-
       </li>
   </ul>
 </nav>

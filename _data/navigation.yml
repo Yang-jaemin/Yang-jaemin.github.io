@@ -13,7 +13,7 @@ side:
       - title: "Machine Learning"
         url: /categories/Machine Learning
       - title: "Deep Learning"
-        url: /categories/Deep_learning
+        url: /categories/Deep learning
  
   - title: Language
     children:
