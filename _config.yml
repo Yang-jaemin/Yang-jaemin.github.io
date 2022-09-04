@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "Yang's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yang jaemin"
-description              : "Studing ML/DL"
+description              : "Studying ML/DL"
 url                      : "https://Yang-jaemin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Yang-jaemin.github.io"
@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "Yang-jaemin"
-  avatar           : "/assets/images/yangyang.jpg"
-  bio              : "Kwangwoon student, department of **Robotics**, studing **ML/DL**"
+  avatar           : "/assets/images/yangyang.JPG"
+  bio              : "Kwangwoon student, department of **Robotics**, studying **ML/DL**"
   location         : "Seoul, Republic of Korea"
   email            :
   links:
