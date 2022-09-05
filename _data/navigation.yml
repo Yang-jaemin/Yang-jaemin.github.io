@@ -19,7 +19,8 @@ side:
     children:
       - title: "Python"
        url: /categories/Python
-   - title: Mathematics
+
+  - title: Mathematics
     children:
       - title: "Linear Algebra"
         url: /categories/Linear_Algebra
