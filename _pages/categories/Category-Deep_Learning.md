@@ -1,12 +1,12 @@
 ---
-title: "Python Coding Test"
-permalink: /categories/Python_Coding_Test
+title: "Deep learning"
+permalink: /categories/Deep_learning
 layout: category
 author_profile: true
 toc: true
 sidebar_main: true
-taxonomy: Python Coding Test
+taxonomy: Deep_Learning
 ---
-알고리즘 공부, 네이버 부스트캠프 코딩테스트 준비를 위한 공부입니다.
+'딥러닝 파이토치 교과서'와 '부스트코스 딥러닝 기초 강의'로 하는 딥러닝 공부입니다.
 {% assign posts = site.categories.Cpp %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}

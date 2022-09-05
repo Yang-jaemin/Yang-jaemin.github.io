@@ -5,7 +5,7 @@ layout: category
 author_profile: true
 toc: true
 sidebar_main: true
-taxonomy: Machine Learning
+taxonomy: Machine_Learning
 ---
 
 '딥러닝 파이토치 교과서'와 '부스트코스 딥러닝 기초 강의'로 하는 머신러닝 공부입니다.

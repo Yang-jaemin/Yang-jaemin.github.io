@@ -5,7 +5,7 @@ layout: category
 author_profile: true
 toc: true
 sidebar_main: true
-taxonomy: Linear Algebra
+taxonomy: Linear_Algebra
 ---
 
 선형대수학 공부입니다.
