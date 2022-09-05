@@ -16,7 +16,7 @@ I am interested in computer vision and the process of creating something using M
 
 🎙 **Computer vision**
 
-💭 **GAN(Generative Adversarial network**
+💭 **GAN(Generative Adversarial network)**
 
 
 ## 🐯 About Me
