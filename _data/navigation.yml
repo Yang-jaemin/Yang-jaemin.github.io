@@ -11,9 +11,9 @@ side:
   - title: ML/DL
     children:
       - title: "Machine Learning"
-        url: /categories/Machine Learning
+        url: /categories/Machine_Learning
       - title: "Deep Learning"
-        url: /categories/Deep learning
+        url: /categories/Deep_learning
  
   - title: Language
     children:
@@ -22,7 +22,7 @@ side:
    - title: Mathematics
     children:
       - title: "Linear Algebra"
-        url: /categories/Linear Algebra
+        url: /categories/Linear_Algebra
      - title: "Statistics"
         url: /categories/Statistics
      
