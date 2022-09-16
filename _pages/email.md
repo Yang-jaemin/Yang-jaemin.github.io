@@ -8,6 +8,6 @@ layout: single
 
 Anything is fine, Do not hesitate to call me.
 
-[gkskaflxmf@naver.com](gkskaflxmf@naver.com)<br><br>
+gkskaflxmf@naver.com<br><br>
 
 Thank you.

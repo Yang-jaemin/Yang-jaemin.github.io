@@ -71,8 +71,8 @@
             <ul>
                 {% for category in site.categories %}
                         
-                    {% if category[0] == "Just me" %}
-                        <li><a href="/categories/Just_me" class="">Linear Algebra ({{category[1].size}})</a></li>
+                    {% if category[0] == "It's me" %}
+                        <li><a href="/categories/Its_me" class="">Linear Algebra ({{category[1].size}})</a></li>
                     {% endif %}  
     
                     

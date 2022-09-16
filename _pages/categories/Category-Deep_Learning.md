@@ -1,6 +1,6 @@
 ---
 title: "Deep learning"
-permalink: /categories/Deep_learning
+permalink: /categories/Deep_Learning
 layout: category
 author_profile: true
 toc: true

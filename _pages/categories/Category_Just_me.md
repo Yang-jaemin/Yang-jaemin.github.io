@@ -1,11 +1,11 @@
 ---
-title: "Just me"
-permalink: /categories/Just_me
+title: "It's me"
+permalink: /categories/Its_me
 layout: category
 author_profile: true
-toc: true
+toc: false
 sidebar_main: true
-taxonomy: Just_me
+taxonomy: Its_me
 ---
 일상을 공유합니다.
 {% assign posts = site.categories.Cpp %}

@@ -2,7 +2,7 @@
 title: "About Me"
 permalink: /Aboutme/
 layout: single
-toc: true
+toc: false
 sidebar_main: true
 ---
 
