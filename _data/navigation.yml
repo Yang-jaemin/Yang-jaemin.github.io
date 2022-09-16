@@ -8,32 +8,32 @@ main:
   - title: "Email"
     url  : /Aboutme/email 
 
-side:
-  - title: ML/DL
-    children:
-      - title: "Machine Learning"
-        url: /categories/Machine_Learning
-      - title: "Deep Learning"
-        url: /categories/Deep_Learning
- 
-  - title: Language
-    children:
-      - title: "Python"
-        url: /categories/Python
-      - title: "Python Coding Test"
-        url: /categories/Python_coding_test
-
-  - title: Mathematics
-    children:
-      - title: "Linear Algebra"
-        url: /categories/Linear_Algebra
-     - title: "Statistics"
-        url: /categories/Statistics
-
-  - title: It's me
-    children:
-      - title: "Just me"
-        url: /categories/Just_me
+#side:
+#  - title: ML/DL
+#    children:
+#      - title: "Machine Learning"
+#        url: /categories/Machine_Learning
+#      - title: "Deep Learning"
+#        url: /categories/Deep_Learning
+# 
+#  - title: Language
+#    children:
+#      - title: "Python"
+#        url: /categories/Python
+#      - title: "Python Coding Test"
+#        url: /categories/Python_coding_test
+#
+#  - title: Mathematics
+#    children:
+#      - title: "Linear Algebra"
+#        url: /categories/Linear_Algebra
+#     - title: "Statistics"
+#        url: /categories/Statistics
+#
+#  - title: It's me
+#    children:
+#      - title: "It"s me"
+#        url: /categories/Its_me
      
      
    
