@@ -11,7 +11,7 @@ main:
 side:
  - title: ML/DL
    children:
-     - title: "Machine Learning"
+      - title: "Machine Learning"
        url: /categories/Machine_Learning
       - title: "Deep Learning"
         url: /categories/Deep_Learning
@@ -21,13 +21,13 @@ side:
       - title: "Python"
         url: /categories/Python
       - title: "Python Coding Test"
-        url: /categories/Python_coding_test
+        url: /categories/Python_Coding_Test
 
   - title: Mathematics
     children:
       - title: "Linear Algebra"
         url: /categories/Linear_Algebra
-     - title: "Statistics"
+      - title: "Statistics"
         url: /categories/Statistics
 
   - title: It's me
