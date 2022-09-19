@@ -9,7 +9,7 @@ main:
 
 side:
   - title: ML/DL
-   children:
+    children:
       - title: "Machine Learning"
         url: /categories/Machine_Learning
       - title: "Deep Learning"
