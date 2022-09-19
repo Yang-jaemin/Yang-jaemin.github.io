@@ -5,7 +5,7 @@ layout: category
 author_profile: true
 toc: true
 sidebar_main: true
-taxonomy: Python_coding_test
+taxonomy: Python_Coding_Test
 ---
 알고리즘 공부, 네이버 부스트캠프 코딩테스트 준비를 위한 공부입니다.
 <br/>꾸준히 알고리즘 문제를 풀기 위해 노력하고 있습니다.<br/>

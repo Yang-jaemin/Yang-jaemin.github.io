@@ -1,0 +1,15 @@
+---
+title : "test"
+categories :
+    - Deep_Learning
+tag :
+    - Deep_Learning
+toc: true
+toc_sticky : true
+comments : true
+sidebar_main: true
+---
+
+# hi
+
+테스트입니다~
