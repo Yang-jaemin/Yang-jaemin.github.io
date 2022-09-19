@@ -12,7 +12,7 @@ side:
  - title: ML/DL
    children:
       - title: "Machine Learning"
-       url: /categories/Machine_Learning
+        url: /categories/Machine_Learning
       - title: "Deep Learning"
         url: /categories/Deep_Learning
  
