@@ -1,6 +1,5 @@
 # main links
 main:
-
   - title: "About Me"
     url: /Aboutme/
   - title: "Posts"
@@ -9,7 +8,7 @@ main:
     url  : /Aboutme/email 
 
 side:
- - title: ML/DL
+  - title: ML/DL
    children:
       - title: "Machine Learning"
         url: /categories/Machine_Learning
