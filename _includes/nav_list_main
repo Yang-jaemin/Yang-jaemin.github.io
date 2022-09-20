@@ -71,8 +71,8 @@
             <ul>
                 {% for category in site.categories %}
                         
-                    {% if category[0] == "Its_me" %}
-                        <li><a href="/categories/Its_me" class="">It's me ({{category[1].size}})</a></li>
+                    {% if category[0] == "Me" %}
+                        <li><a href="/categories/Me" class="">Me ({{category[1].size}})</a></li>
                     {% endif %}  
     
                     

@@ -29,10 +29,10 @@ side:
       - title: "Statistics"
         url: /categories/Statistics
 
-  - title: It's me
+  - title: Me
     children:
-      - title: "It's me"
-        url: /categories/Its_me
+      - title: "Me"
+        url: /categories/Me
      
      
    
