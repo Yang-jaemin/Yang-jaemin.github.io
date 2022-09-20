@@ -24,8 +24,8 @@
                         <li><a href="/categories/Machine Learning" class="">Machine Learning ({{category[1].size}})</a></li>
                     {% endif %}
 
-                    {% if category[0] == "Deep_Learning" %}
-                        <li><a href="/categories/Deep Learning" class="">Deep learning ({{category[1].size}})</a></li>
+                    {% if category[0] == "Deep Learning" %}
+                        <li><a href="/categories/Deep Learning" class="">Deep Learning ({{category[1].size}})</a></li>
                     {% endif %}
 
 
