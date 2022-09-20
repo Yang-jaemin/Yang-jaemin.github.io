@@ -67,7 +67,7 @@
                 {% endfor %}
             </ul>    
 
-        <span class="nav__sub-title">Just me</span>
+        <span class="nav__sub-title">Me</span>
             <ul>
                 {% for category in site.categories %}
                         
