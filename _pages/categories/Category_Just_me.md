@@ -1,6 +1,6 @@
 ---
-title: "It's me"
-permalink: /categories/Its_me
+title: "Me"
+permalink: /categories/Me
 layout: category
 author_profile: true
 toc: false

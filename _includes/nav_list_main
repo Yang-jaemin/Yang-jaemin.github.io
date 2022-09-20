@@ -41,7 +41,7 @@
                     {% endif %}
 
                     {% if category[0] == "Python Coding Test" %}
-                        <li><a href="/categories/Python Coding Test" class=""> Python Coding Test ({{category[1].size}})</a></li>
+                        <li><a href="/categories/Python_Coding_Test" class=""> Python Coding Test ({{category[1].size}})</a></li>
                     {% endif %}
 
                    
@@ -55,7 +55,7 @@
                 {% for category in site.categories %}
                     
                     {% if category[0] == "Linear Algebra" %}
-                        <li><a href="/categories/Linear Algebra" class="">Linear Algebra ({{category[1].size}})</a></li>
+                        <li><a href="/categories/Linear_Algebra" class="">Linear Algebra ({{category[1].size}})</a></li>
                     {% endif %}  
 
                     {% if category[0] == "Statistics" %}
