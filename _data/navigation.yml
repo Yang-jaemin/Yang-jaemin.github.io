@@ -11,21 +11,21 @@ side:
   - title: ML/DL
     children:
       - title: "Machine Learning"
-        url: /categories/Machine_Learning
+        url: /categories/Machine Learning
       - title: "Deep Learning"
-        url: /categories/Deep_Learning
+        url: /categories/Deep Learning
  
   - title: Language
     children:
       - title: "Python"
         url: /categories/Python
       - title: "Python Coding Test"
-        url: /categories/Python_Coding_Test
+        url: /categories/Python Coding Test
 
   - title: Mathematics
     children:
       - title: "Linear Algebra"
-        url: /categories/Linear_Algebra
+        url: /categories/Linear Algebra
       - title: "Statistics"
         url: /categories/Statistics
 

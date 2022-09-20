@@ -5,7 +5,7 @@ layout: category
 author_profile: true
 toc: false
 sidebar_main: true
-taxonomy: Its_me
+taxonomy: Me
 ---
 일상을 공유합니다.
 {% assign posts = site.categories.Cpp %}

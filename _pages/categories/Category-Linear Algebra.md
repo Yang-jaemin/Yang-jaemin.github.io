@@ -1,11 +1,11 @@
 ---
 title: "Linear Algebra"
-permalink: /categories/Linear_Algebra
+permalink: /categories/Linear Algebra
 layout: category
 author_profile: true
 toc: true
 sidebar_main: true
-taxonomy: Linear_Algebra
+taxonomy: Linear Algebra
 ---
 
 선형대수학 공부입니다.
