@@ -20,12 +20,12 @@
                 <!--category[1].size 로 해당 카테고리를 가진 글의 개수 표시--> 
                 {% for category in site.categories %}
                     
-                    {% if category[0] == "Machine_Learning" %}
-                        <li><a href="/categories/Machine_Learning" class="">Machine Learning ({{category[1].size}})</a></li>
+                    {% if category[0] == "Machine Learning" %}
+                        <li><a href="/categories/Machine Learning" class="">Machine Learning ({{category[1].size}})</a></li>
                     {% endif %}
 
                     {% if category[0] == "Deep_Learning" %}
-                        <li><a href="/categories/Deep_Learning" class="">Deep learning ({{category[1].size}})</a></li>
+                        <li><a href="/categories/Deep Learning" class="">Deep learning ({{category[1].size}})</a></li>
                     {% endif %}
 
 
@@ -40,8 +40,8 @@
                         <li><a href="/categories/Python" class=""> Python ({{category[1].size}})</a></li>
                     {% endif %}
 
-                    {% if category[0] == "Python_Coding_Test" %}
-                        <li><a href="/categories/Python_Coding_Test" class=""> Python Coding Test ({{category[1].size}})</a></li>
+                    {% if category[0] == "Python Coding Test" %}
+                        <li><a href="/categories/Python Coding Test" class=""> Python Coding Test ({{category[1].size}})</a></li>
                     {% endif %}
 
                    
@@ -54,8 +54,8 @@
             <ul>
                 {% for category in site.categories %}
                     
-                    {% if category[0] == "Linear_Algebra" %}
-                        <li><a href="/categories/Linear_Algebra" class="">Linear Algebra ({{category[1].size}})</a></li>
+                    {% if category[0] == "Linear Algebra" %}
+                        <li><a href="/categories/Linear Algebra" class="">Linear Algebra ({{category[1].size}})</a></li>
                     {% endif %}  
 
                     {% if category[0] == "Statistics" %}
