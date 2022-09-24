@@ -1,11 +1,11 @@
 ---
-title: "Me"
-permalink: /categories/Me
+title: "Anything"
+permalink: /categories/Anything
 layout: category
 author_profile: true
 toc: false
 sidebar_main: true
-taxonomy: Me
+taxonomy: Anything
 ---
 일상을 공유합니다.
 {% assign posts = site.categories.Cpp %}
