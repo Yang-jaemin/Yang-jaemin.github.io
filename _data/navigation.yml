@@ -15,12 +15,14 @@ side:
       - title: "Deep Learning"
         url: /categories/Deep Learning
  
-  - title: Language
+  - title: Coding
     children:
       - title: "Python"
         url: /categories/Python
-      - title: "Python Coding Test"
-        url: /categories/Python Coding Test
+      - title: "Markdown"
+        url: /categories/Markdown
+      - title: "Algorithm"
+        url: /categories/Algorithm
 
   - title: Mathematics
     children:

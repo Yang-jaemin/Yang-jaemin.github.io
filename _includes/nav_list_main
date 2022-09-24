@@ -32,7 +32,7 @@
                 {% endfor %}
             </ul>
             
-        <span class="nav__sub-title">Language</span>
+        <span class="nav__sub-title">Coding</span>
             <ul>
                 {% for category in site.categories %}
                     
@@ -40,8 +40,12 @@
                         <li><a href="/categories/Python" class=""> Python ({{category[1].size}})</a></li>
                     {% endif %}
 
-                    {% if category[0] == "Python Coding Test" %}
-                        <li><a href="/categories/Python Coding Test" class=""> Python Coding Test ({{category[1].size}})</a></li>
+                    {% if category[0] == "Markdown" %}
+                        <li><a href="/categories/Markdown" class=""> Markdown ({{category[1].size}})</a></li>
+                    {% endif %}
+
+                    {% if category[0] == "Algorithm" %}
+                        <li><a href="/categories/Algorithm" class=""> Python Coding Test ({{category[1].size}})</a></li>
                     {% endif %}
 
                    
