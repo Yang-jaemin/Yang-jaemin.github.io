@@ -45,7 +45,7 @@
                     {% endif %}
 
                     {% if category[0] == "Algorithm" %}
-                        <li><a href="/categories/Algorithm" class=""> Python Coding Test ({{category[1].size}})</a></li>
+                        <li><a href="/categories/Algorithm" class=""> Algorithm ({{category[1].size}})</a></li>
                     {% endif %}
 
                    
@@ -71,7 +71,7 @@
                 {% endfor %}
             </ul>    
 
-        <span class="nav__sub-title">Me</span>
+        <span class="nav__sub-title">Anything</span>
             <ul>
                 {% for category in site.categories %}
                         
