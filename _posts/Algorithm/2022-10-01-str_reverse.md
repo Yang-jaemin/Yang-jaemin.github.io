@@ -10,3 +10,4 @@ comments : true
 sidebar_main: true
 ---
 
+<img src="../../images/str_down.png" alt="str_down" style="zoom: 50%;" />
