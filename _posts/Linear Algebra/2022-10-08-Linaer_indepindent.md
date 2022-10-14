@@ -1,5 +1,5 @@
 ---
-title : "[칸아카데미] 모두를 위한 선형대수학 - 선형종속과 선형독립"
+title : "선형종속과 선형독립"
 categories :
     - Linear Algebra
 tag :
